@@ -1,4 +1,4 @@
-class MinMaxAndCompare {
+class HomeTask1 {
     fun findMinInArray(array:Array<Int>):Int{
         var min = array[0]
         for (i in array){
